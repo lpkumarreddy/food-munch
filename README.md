@@ -43,14 +43,29 @@ This is a **responsive food delivery website** built using **HTML, CSS, Bootstra
 ## Screenshots
 
 ### Home Page
-![Home Page](https://i.ibb.co/3ywc4ZdB/Screenshot-2025-02-21-030858.png)
+<img width="1915" height="873" alt="Screenshot 2025-08-01 221322" src="https://github.com/user-attachments/assets/d5d5c7f8-4870-4855-b354-62a431ea70e6" />
+
+### Why Choose Us?
+<img width="1908" height="866" alt="Screenshot 2025-08-01 221612" src="https://github.com/user-attachments/assets/7c1c0696-d3e0-447c-9f7e-68401d99b798" />
 
 
 ### Explore Menu Section
-![Explore Menu](https://i.ibb.co/4GtzffP/Screenshot-2025-02-21-030920.png)
+<img width="1903" height="871" alt="Screenshot 2025-08-01 221636" src="https://github.com/user-attachments/assets/74042b9d-30e7-4a9b-9cd5-571d71af4fb2" />
+
+### Redeem Gift
+<img width="1915" height="873" alt="Screenshot 2025-08-01 221715" src="https://github.com/user-attachments/assets/fe7cccaa-8e0b-45b2-b5fa-65c88db22981" />
+
+### Gift Voucher
+<img width="1919" height="866" alt="Screenshot 2025-08-01 221747" src="https://github.com/user-attachments/assets/e220fa47-98f9-4e90-81be-761588d14af7" />
+
 
 ### Delivery & Payment Section
-![Delivery & Payment](https://i.ibb.co/Mywq1jZ9/Screenshot-2025-02-21-030939.png)
+<img width="1916" height="869" alt="Screenshot 2025-08-01 221702" src="https://github.com/user-attachments/assets/e7794411-7033-4633-9fc7-a07a785c0f2f" />
+
+### Follow Us
+<img width="1912" height="868" alt="Screenshot 2025-08-01 221727" src="https://github.com/user-attachments/assets/7e920649-1c5a-4896-9537-133ee07b9811" />
+
+
 
 ## License
 
@@ -63,7 +78,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ```plaintext
 MIT License
 
-Copyright (c) 2023-2025 LINGAM PAVAN KUMAR REDDY
+Copyright (c) 2023-2025 lpkumarreddy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
